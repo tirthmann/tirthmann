@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tirthmann
 - 👀 I’m interested in gaming and creating new things
-- 🌱 I’m currently learning programming at college
+- 🌱 Morehead state university student
 
 <!---
 tirthmann/tirthmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
